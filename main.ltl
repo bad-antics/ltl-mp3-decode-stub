@@ -1,0 +1,15 @@
+// ltl-mp3-decode-stub/main.ltl
+//
+// MP3 frame-header and side-info parser.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-mp3-decode-stub v0.1.0")
+    io::println("MP3 frame-header and side-info parser.")
+    0
+}
